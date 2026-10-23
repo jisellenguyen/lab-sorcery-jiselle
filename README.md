@@ -270,7 +270,6 @@ then rerun the command above to generate a markdown table of runtimes.
 Copy/paste the table into the README file below this line.
 
 | timsort | merge_sorted | quick_sorted |
-| ------- | ------------ | ------------ |
 | 1.72e-06 | 1.37e-06 | 1.59e-06 |
 | 1.26e-06 | 5.08e-06 | 5.00e-06 |
 | 1.02e-06 | 7.83e-06 | 6.77e-06 |
